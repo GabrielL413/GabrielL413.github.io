@@ -1,0 +1,39 @@
+body {
+    background-color: #8e9091;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    transform: translate(15%,10%);
+}
+.link {
+    padding: 100px;
+}
+.text {
+    text-align: center;
+    margin-left:200px;
+    margin-right:500px;
+    
+    Background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 20px;
+}
+.who {
+   text-align: center;
+   
+    margin-left:200px;
+    margin-right:500px;
+    
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 20px;
+}
+a:hover{
+    color:grey;
+    text-decoration:none;
+}
